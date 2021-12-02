@@ -1,0 +1,58 @@
+
+
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Amonio Cuaternario",
+      "imagen": "./imagen/AMONIO-CUATERNARIO-DT.PNG"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "title": "Detergente",
+      "imagen": "./imagen/DETERGENTE-DT.PNG"
+    },
+    {
+      "precio": 100,
+      "id": 3,
+      "title": "Jabon Líquido",
+      "imagen": "./imagen/JABON-DT.PNG"
+    },
+    {
+      "precio": 50,
+      "id": 4,
+      "title": "Legía",
+      "imagen": "./imagen/LEJIA-DT.PNG"
+    },
+    {
+      "precio": 10,
+      "id": 5,
+      "title": "Limpia Vidrios",
+      "imagen": "./imagen/LIMPIA-VIDRIO-DT.PNG"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Limpiador de superficies",
+      "imagen": "./imagen/LIMPIADOR-DE-SUPERFICIES-DT.PNG"
+    },
+    {
+      "precio": 10,
+      "id": 7,
+      "title": "Quita Grasa Cocinas",
+      "imagen": "./imagen/QUITA-GRADA-DT.PNG"
+    },
+    {
+      "precio": 11,
+      "id": 8,
+      "title": "Quita manchas",
+      "imagen": "./imagen/QUITA-MANCHAS-DT.PNG"
+    },
+    {
+      "precio": 12,
+      "id": 9,
+      "title": "Suavizante de ropa",
+      "imagen": "./imagen/SUAVIZANTE-DE-ROPA-DT.PNG"
+    }
+  ]
